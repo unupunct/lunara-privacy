@@ -4,7 +4,7 @@ title: Politica de confidentialitate
 
 # Politica de confidențialitate — Lunara
 
-**Ultima actualizare:** 12 august 2026
+**Ultima actualizare:** 14 august 2026
 **Versiune aplicație:** 1.0.0
 
 Lunara este o aplicație de monitorizare a ciclului menstrual care funcționează
@@ -93,8 +93,12 @@ am decis să nu îl avem.
 **Tu decizi ce se trimite**, separat pentru fiecare partener:
 
 - **faza ciclului** — implicit activ
-- **dispoziție și energie** — implicit activ
+- **dispoziție și energie** — implicit **dezactivat**
 - **simptome** — implicit **dezactivat**
+
+Din 14 august 2026, dispoziția și energia sunt oprite implicit. Aplicația
+partenerului arată faza și un sfat pe zi; dispoziția și energia nu apar acolo, iar
+un lucru care nu se afișează nu are de ce să fie trimis.
 
 **Notițele tale zilnice nu părăsesc telefonul**, indiferent de setări. Jurnalul
 din „Notează" nu este inclus în ce se sincronizează. Libidoul nu se trimite
@@ -118,9 +122,14 @@ orice altă modificare, deci mesajul dispare și de la el la următoarea
 sincronizare. Câte unul pe zi de fiecare parte, deci nu se strânge un istoric de
 conversație pe niciun telefon.
 
-Anularea împerecherii șterge cheia. Din acel moment nu se mai poate trimite și nu
-se mai poate citi nimic. Ce a fost deja primit rămâne pe celălalt telefon, la fel
-ca orice mesaj trimis.
+Anularea împerecherii șterge cheia și, din 14 august 2026, **șterge și mesajele de
+pe telefonul care anulează** — în ambele sensuri: și ce ai scris tu, și ce ai
+primit. Conversația a existat pentru împerecherea aceea; când ea se termină, se
+termină și conversația.
+
+Pe celălalt telefon, copia lui rămâne până când anulează și el. Nu există server,
+deci nu avem cum să ștergem ceva de pe un telefon care nu este al tău — la fel ca
+orice mesaj trimis vreodată, prin orice aplicație.
 
 ## 4. Securitate
 
@@ -164,7 +173,7 @@ telefon.
 
 ## 8. Contact
 
-**Tehnic@bstmail.eu**
+**puskas.m@gmail.com**
 
 Ține minte: nu putem accesa datele tale, deci nu te putem ajuta să le recuperezi
 și nu îți putem spune ce conțin. Putem răspunde doar la întrebări despre
